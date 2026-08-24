@@ -1,2 +1,2 @@
-# !/bin/bash
+touch filename.txt
 touch filename.txt file1.txt file2.txt file3.txt
